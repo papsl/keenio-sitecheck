@@ -1,0 +1,14 @@
+{
+  "name": "keenio.sitecheck",
+  "version": "0.0.0",
+  "description": "Simple application for checking website status. Keen.io is used as data storage",
+  "main": "app.js",
+  "author": {
+    "name": "papsl",
+    "email": "peter@4pi.si"
+  },
+  "dependencies": {
+    "keen.io": "0.0.4",
+    "unirest": "~0.2.0"
+  }
+}
